@@ -1,0 +1,126 @@
+//## Commits
+    //A woman sitting on a couch with a laptop and a dog
+    //A dog standing on a rug
+    //A person holding a laptop
+    //A woman sitting on a couch with a laptop
+    //A white cup on a red and white striped surface
+    //A woman sitting on a couch with a laptop and a dog looking at it
+    //A close up of a wooden surface
+    //A wooden stool with a white cup on top
+    //A woman looking at a laptop 
+    //A blurry image of a window?
+
+{
+    "apim-request-id": "f6e3b5d1-b1a4-4191-8b89-cd6586f93644",
+    "content-length": "1377",
+    "content-type": "application/json; charset=utf-8",
+    "modelVersion": "2023-10-01",
+    "denseCaptionsResult": {
+      "values": [
+        {
+          "text": "a woman sitting on a couch with a laptop and a dog",
+          "confidence": 0.8436285853385925,
+          "boundingBox": {
+            "x": 0,
+            "y": 0,
+            "w": 986,
+            "h": 740
+          }
+        },
+        {
+          "text": "a dog standing on a rug",
+          "confidence": 0.7493350505828857,
+          "boundingBox": {
+            "x": 656,
+            "y": 420,
+            "w": 300,
+            "h": 313
+          }
+        },
+        {
+          "text": "a person holding a laptop",
+          "confidence": 0.776459276676178,
+          "boundingBox": {
+            "x": 451,
+            "y": 297,
+            "w": 177,
+            "h": 123
+          }
+        },
+        {
+          "text": "a woman sitting on a couch with a laptop",
+          "confidence": 0.8437909483909607,
+          "boundingBox": {
+            "x": 361,
+            "y": 189,
+            "w": 352,
+            "h": 292
+          }
+        },
+        {
+          "text": "a white cup on a red and white striped surface",
+          "confidence": 0.7308092713356018,
+          "boundingBox": {
+            "x": 568,
+            "y": 537,
+            "w": 57,
+            "h": 56
+          }
+        },
+        {
+          "text": "a woman sitting on a couch with a laptop and a dog looking at it",
+          "confidence": 0.8208153247833252,
+          "boundingBox": {
+            "x": 0,
+            "y": 179,
+            "w": 969,
+            "h": 544
+          }
+        },
+        {
+          "text": "a close up of a wooden surface",
+          "confidence": 0.6761289834976196,
+          "boundingBox": {
+            "x": 353,
+            "y": 0,
+            "w": 278,
+            "h": 105
+          }
+        },
+        {
+          "text": "a wooden stool with a white cup on top",
+          "confidence": 0.6317247152328491,
+          "boundingBox": {
+            "x": 470,
+            "y": 564,
+            "w": 242,
+            "h": 171
+          }
+        },
+        {
+          "text": "a woman looking at a laptop",
+          "confidence": 0.803401529788971,
+          "boundingBox": {
+            "x": 545,
+            "y": 192,
+            "w": 171,
+            "h": 178
+          }
+        },
+        {
+          "text": "a blurry image of a window",
+          "confidence": 0.7471383810043335,
+          "boundingBox": {
+            "x": 772,
+            "y": 0,
+            "w": 205,
+            "h": 335
+          }
+        }
+      ]
+    },
+    "metadata": {
+      "width": 986,
+      "height": 740
+    }
+  }
