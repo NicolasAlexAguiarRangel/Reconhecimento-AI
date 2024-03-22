@@ -43,7 +43,7 @@ Você pode usar os recursos de OCR do Azure AI Vision com um recurso multisservi
 
 # imagem Implatação 
 
-<https://github.com/NicolasAlexAguiarRangel/Reconhecimento-AI/blob/main/Captura%20de%20tela%201.png?raw=true>
+<img href="https://github.com/NicolasAlexAguiarRangel/Reconhecimento-AI/blob/main/Captura%20de%20tela%201.png?raw=true">
 
 
 ## Conectar seu recurso de serviço de IA do Azure ao Vision Studio
